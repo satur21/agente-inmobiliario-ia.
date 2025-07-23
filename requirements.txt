@@ -1,2 +1,7 @@
 streamlit
 pillow
+fastapi 
+uvicorn 
+python-multipart 
+pillow 
+transformers
